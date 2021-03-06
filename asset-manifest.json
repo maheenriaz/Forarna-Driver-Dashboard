@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Forarna-Driver-Dashboard/static/css/main.be5f5bea.chunk.css",
+    "main.js": "/Forarna-Driver-Dashboard/static/js/main.37cec19f.chunk.js",
+    "main.js.map": "/Forarna-Driver-Dashboard/static/js/main.37cec19f.chunk.js.map",
+    "runtime-main.js": "/Forarna-Driver-Dashboard/static/js/runtime-main.79176091.js",
+    "runtime-main.js.map": "/Forarna-Driver-Dashboard/static/js/runtime-main.79176091.js.map",
+    "static/css/2.7da3e5d4.chunk.css": "/Forarna-Driver-Dashboard/static/css/2.7da3e5d4.chunk.css",
+    "static/js/2.4251b462.chunk.js": "/Forarna-Driver-Dashboard/static/js/2.4251b462.chunk.js",
+    "static/js/2.4251b462.chunk.js.map": "/Forarna-Driver-Dashboard/static/js/2.4251b462.chunk.js.map",
+    "index.html": "/Forarna-Driver-Dashboard/index.html",
+    "precache-manifest.5ca44c562f57f3e5f263482ab92a5987.js": "/Forarna-Driver-Dashboard/precache-manifest.5ca44c562f57f3e5f263482ab92a5987.js",
+    "service-worker.js": "/Forarna-Driver-Dashboard/service-worker.js",
+    "static/css/2.7da3e5d4.chunk.css.map": "/Forarna-Driver-Dashboard/static/css/2.7da3e5d4.chunk.css.map",
+    "static/css/main.be5f5bea.chunk.css.map": "/Forarna-Driver-Dashboard/static/css/main.be5f5bea.chunk.css.map",
+    "static/js/2.4251b462.chunk.js.LICENSE.txt": "/Forarna-Driver-Dashboard/static/js/2.4251b462.chunk.js.LICENSE.txt",
+    "static/media/cartoon.jpg": "/Forarna-Driver-Dashboard/static/media/cartoon.1781e57d.jpg",
+    "static/media/logo.svg": "/Forarna-Driver-Dashboard/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79176091.js",
+    "static/css/2.7da3e5d4.chunk.css",
+    "static/js/2.4251b462.chunk.js",
+    "static/css/main.be5f5bea.chunk.css",
+    "static/js/main.37cec19f.chunk.js"
+  ]
+}
